@@ -1,0 +1,15 @@
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\bin\Debug\net6.0\ExercicioCSharp.exe
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\bin\Debug\net6.0\ExercicioCSharp.deps.json
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\bin\Debug\net6.0\ExercicioCSharp.runtimeconfig.json
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\bin\Debug\net6.0\ExercicioCSharp.dll
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\bin\Debug\net6.0\ExercicioCSharp.pdb
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.csproj.AssemblyReference.cache
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.AssemblyInfoInputs.cache
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.AssemblyInfo.cs
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.csproj.CoreCompileInputs.cache
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.dll
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\refint\ExercicioCSharp.dll
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.pdb
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ExercicioCSharp.genruntimeconfig.cache
+C:\_fontes\ExercicioCSharp\ExercicioCSharp\obj\Debug\net6.0\ref\ExercicioCSharp.dll
